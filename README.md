@@ -1,6 +1,6 @@
 # Unsolvable Equations
 
-See <https://medium.com/@carlmkadie>
+See [ Solving Equations in Python: Closed-Form vs Numerical | Towards Data Science](https://towardsdatascience.com/explore-solvable-and-unsolvable-equations-with-python-661ac11f4f20)
 
 ## License
 
