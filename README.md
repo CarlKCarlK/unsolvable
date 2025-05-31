@@ -1,6 +1,7 @@
-# Unsolvable Equations
+# Explore Solvable and Unsolvable Equations with Python
 
-See <https://medium.com/@carlmkadie>
+See (*free, no paywall*) [ Explore Solvable and Unsolvable Equations with Python | Towards Data Science](https://towardsdatascience.com/explore-solvable-and-unsolvable-equations-with-python-661ac11f4f20)
+
 
 ## License
 
